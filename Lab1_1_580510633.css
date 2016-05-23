@@ -1,0 +1,27 @@
+/* 
+* @Author: CSB307
+* @Date:   2016-05-23 16:11:53
+* @Last Modified by:   Admin
+* @Last Modified time: 2016-05-24 00:55:03
+*/
+body{
+    background-color: #C4C4C4;
+}
+.birth_date{
+    color: #26D000;
+}
+.holiday{
+    color:red;
+}
+.normal{
+    color:#0F6AB1;
+}
+.width{
+    width: 100%;
+    text-align: center;
+}
+.title {
+    padding: 15px;
+    background-color:#171C8B;
+    color: #ffffff;
+    text-align: center;
